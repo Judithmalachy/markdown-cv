@@ -45,6 +45,13 @@ Veritas University
 - Pushed to GitHub and published as a personal website.
 
 ---
+## Key Achievements
+
+- Successfully completed a Git & GitHub-based CV project using Markdown.
+- Led a group assignment and supported peers in understanding Git basics.
+- Built and published a personal CV site using GitHub Pages.
+- Applied version control best practices using branches and pull requests.
+
 
 ## Links
 
