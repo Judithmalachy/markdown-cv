@@ -46,8 +46,54 @@ Veritas University
 
 ---
 
+## Key Achievements
+
+- Successfully completed a Git & GitHub CV deployment project
+- Overcame multiple technical challenges (authentication, branches, GitHub Pages)
+- Learned how to publish a personal CV website using only Markdown and GitHub tools
+- Demonstrated strong persistence and adaptability throughout the project
+
+
 ## Links
 
 - GitHub: [https://github.com/JudithMalachy](https://github.com/JudithMalachy)  
 - CV Website: [https://judithmalachy.github.io/my-cv](https://judithmalachy.github.io/my-cv)  
 - LinkedIn: [https://www.linkedin.com/in/judith-malachy-99615524a](https://www.linkedin.com/in/judith-malachy-99615524a)
+
+  ---
+  ---
+
+## Technical Reflection & Personal Process
+
+This project pushed me through one of the most intense technical learning curves I’ve ever experienced. The task was to create a Markdown-based CV, publish it as a live webpage using GitHub Pages, and reflect on the process — but what seemed like a simple assignment turned into a deeply stressful journey.
+
+### Technical Work Done
+
+- I initialized a Git repository, committed and tracked changes using the terminal
+- Created and worked on a feature branch for the new CV section
+- Merged it back into `master` using a Pull Request
+- Configured GitHub Pages to serve my Markdown CV as a live website
+- Edited files both from the terminal and directly on GitHub to fix or update content
+- Dealt with authentication and GitHub Pages setup that didn’t behave as expected
+
+### Challenges I Faced
+
+The process was far from smooth:
+
+- I had **Git authentication issues** that kept blocking my push commands and delayed my progress
+- The **GitHub Pages setup was confusing**, especially figuring out which URL was actually hosting my site
+- At one point, I had multiple branches and was unsure which one to publish or where my real CV lived
+- The terminal sometimes froze or stopped accepting commands, forcing me to cancel and start over
+- I spent long hours figuring things out that were supposed to take minutes
+
+### Personal Reflection
+
+I was exhaused, frustrated, and even considered giving up multiple times. Despite following instructions, GitHub often didn’t respond the way I expected. I felt stuck, overwhelmed, and mentally drained — but I didn’t give up.
+
+Through persistence and support, I managed to complete every part of the assignment. I now understand Git and GitHub better, not just technically, but also the patience and resilience required to work with real-world tools. This experience reminded me that learning isn’t always smooth, but the growth comes from pushing through the frustration.
+
+This project wasn’t just about publishing a CV. It was about proving to myself that I can stick with something difficult and come out the other side with real, practical skills.
+
+
+
+  
